@@ -23,11 +23,11 @@ curl -X POST https://localhost:8000/login \
 
 
 curl -X POST https://localhost:8000/recommend \
-  -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0dXNlciIsImV4cCI6MTc0NzA2OTg0NH0.8o-mYnh-IVjvrmxFSLMZ1WGCKxC0SQwJhIwwlP4uEQY" \
+  -H "Authorization: Bearer *******" \
   -H "Content-Type: application/json" \
   -d "{\"spends\": {\"dining\": 1200, \"travel\": 2000, \"groceries\": 2500}}" -k
 
 
 curl https://localhost:8000/last_parsed -k
 
-"# MAXXMAIASSIGN" 
+
