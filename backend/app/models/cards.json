@@ -1,0 +1,26 @@
+[
+    {
+        "name": "SuperSaver Card",
+        "rewards": {
+            "dining": 2.0,
+            "travel": 1.0,
+            "groceries": 1.5
+        }
+    },
+    {
+        "name": "TravelPro Card",
+        "rewards": {
+            "dining": 1.0,
+            "travel": 3.0,
+            "groceries": 1.0
+        }
+    },
+    {
+        "name": "DailySpender Card",
+        "rewards": {
+            "dining": 1.2,
+            "travel": 1.1,
+            "groceries": 2.5
+        }
+    }
+]

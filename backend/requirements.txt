@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-jose[cryptography]
+PyPDF2
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-dotenv

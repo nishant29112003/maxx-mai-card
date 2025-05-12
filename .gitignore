@@ -1,0 +1,7 @@
+*.env
+__pycache__/
+node_modules/
+"backend/token.json" 
+"backend/app/utils/credentials.json" 
+
+backend/certs/
